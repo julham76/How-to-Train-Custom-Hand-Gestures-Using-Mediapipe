@@ -1,6 +1,6 @@
 # How-to-Train-Custom-Hand-Gestures-Using-Mediapipe
 <img src="/hand_gesture.GIF" alt="prototype" height="200">
-This site provides a straightforward way to train computers using Mediapipe hand to detect your own hand gestures and use them to control a robotic device. It is divided to the following steps:
+This site provides a straightforward way to train computers using Mediapipe hand to detect your own hand gestures and use them to control a robotic device. https://www.instructables.com/How-to-Train-Custom-Hand-Gestures-Using-Mediapipe/. It is divided to the following steps:
 
 **Step 1: Data Collection**
 *	Using MediaPipe to detect and extract landmark points from hand gestures in video frames.
